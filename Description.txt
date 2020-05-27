@@ -1,0 +1,12 @@
+Attribute Information:
+
+6 molecular descriptors and 1 quantitative experimental response:
+1) CIC0
+2) SM1_Dz(Z)
+3) GATS1i
+4) NdsCH
+5) NdssC
+6) MLOGP
+7) quantitative response, LC50 [-LOG(mol/L)]
+
+Col_names=['CIC0','SM1_Dz','GATS1i','NdsCH','NdssC','MLOGP','LC50']
